@@ -2,7 +2,7 @@ package webapp;
 
 public class ContactPage {
 
-    // Facebook
+    // facebook
     // Twitter
-    // Instagram
+    // instagram
 }
